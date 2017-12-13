@@ -46,3 +46,4 @@
 - [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 - [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/jndclpdbaamdhonoechobihbbiimdgai) Use this tool to flash images on USB sticks.
 - [Network Mapper](https://github.com/kost/nmap-android) ([store](https://play.google.com/store/apps/details?id=org.kost.nmap.android.networkmapper)) Network Mapper is unofficial Android frontend for well known Nmap scanner.
+- [JSTorrent](https://github.com/kzahel/jstorrent) A BitTorrent client for Chrome that streams or downloads torrent files.
