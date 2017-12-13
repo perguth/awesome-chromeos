@@ -27,7 +27,6 @@
 - [Cryptpad](https://cryptpad.fr/) With CryptPad, you can make quick collaborative documents for taking notes and writing down ideas together.
 - [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides.
 - [Caret](https://chrome.google.com/webstore/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en) Caret is a graphical text editor modeled on Sublime Text, running completely offline (no Internet connection required) and capable of opening and saving files anywhere on your hard drive.
-- [Cloud9](https://c9.io/) A cloud IDE for writing, running, and debugging code.
 
 ## Style
 
